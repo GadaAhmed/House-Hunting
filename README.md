@@ -1,4 +1,4 @@
-House Hunting Website 🏠
+🏠House Hunting Website 
 house-hunting Website that facilitates to access 
 
 Main problem 🌚
@@ -25,8 +25,8 @@ As a Renter and owner user:
 
   Prototype 🎨
   
+![house hunting](https://github.com/GadaAhmed/House-Hunting/assets/130051751/b76b9662-7a2d-4279-8256-b3c6e80b1f84)
 
-https://www.figma.com/file/R1x2ea6dtXU8BYVmFys6vp/House-Hunting?type=design&node-id=0%3A1&mode=design&t=UOgg3gNwPKKfI6YH-1
 
  Technologies 💻
 
